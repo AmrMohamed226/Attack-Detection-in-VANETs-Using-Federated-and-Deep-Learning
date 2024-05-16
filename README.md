@@ -87,7 +87,7 @@ Initial results indicate that the LSTM model outperforms the FFNN model in most 
 Federated learning models showed remarkable performance, especially in maintaining privacy. Random Forest and Decision Trees outperformed other models, demonstrating their suitability for federated learning environments.
 
 
-## Discussion
+## Conclusion
 Federated learning demonstrated superior performance compared to deep learning models. This can be attributed to the more homogeneous distribution of data per vehicle, which allows each model to better learn local distributions per vehicle. Aggregating all the models' weights helps generalize the model on different aspects of the data, improving overall accuracy and robustness.
 
 The results highlight the benefits of federated learning for privacy-preserving applications. Implementing federated learning in vehicular networks can enhance security and accuracy while protecting user privacy. The decentralized approach of federated learning allows models to learn from local data distributions, leading to better generalization when aggregated over deep learning models.
